@@ -6,6 +6,9 @@
 ## 文件说明
 - `purity_functions.R`: 包含主要的计算函数和代码逻辑。
 
+## 数据说明
+本项目使用的数据集为 `PRAD.RData`。
+
 ## 如何运行
 1. 安装 R 语言环境。
 2. 加载 `purity_functions.R` 文件。
